@@ -8,5 +8,6 @@ the code is for a map showing earthquake and city markers using feed from US gov
 3) All the city markers are shown that are within the threat circle of a particular earthquake selected and visa versa for city marker.
 
 
+the screen shot shows all the functinalities in the gui
 
 the code will work in a suitable JDE with the above package installed.
